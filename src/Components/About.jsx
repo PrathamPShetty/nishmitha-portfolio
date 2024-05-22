@@ -88,7 +88,7 @@ const About = () => {
                                     className={`nav-link w-100 py-3 fs-5 ${activeTab === 'education' ? 'active' : ''}`} 
                                     onClick={() => setActiveTab('education')}
                                 >
-                                    Edu
+                                    Achiviement
                                 </button>
                             </li>
                         </ul>
