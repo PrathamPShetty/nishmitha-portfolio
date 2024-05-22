@@ -15,8 +15,8 @@ const Header = () => {
             <div className="container">
                 <div className="row g-5 align-items-center">
                     <div className="col-lg-6 py-6 pb-0 pt-lg-0">
-                        <h3 className="text-primary mb-3">I'm</h3>
-                        <h1 className="display-3 mb-3">Kate Winslet</h1>
+                        <h2 className="text-primary mb-3">I'm</h2>
+                        <h1 className="display-3 mb-3">NISHMITHAS RAI</h1>
                         <h2 className="typed-text-output d-inline">{typedText}</h2>
                         <div className="typed-text d-none">Web Designer, Web Developer, Front End Developer, Apps Designer, Apps Developer</div>
                         <div className="d-flex align-items-center pt-5">
